@@ -1,0 +1,2 @@
+logrotate state -- version 1
+"/tmp/lrt/test.log" 2000-1-1

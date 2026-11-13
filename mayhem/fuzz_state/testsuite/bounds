@@ -1,0 +1,3 @@
+logrotate state -- version 2
+"/var/log/x" 2100-12-31-23:59:59
+"/var/log/y" 1969-1-1

@@ -1,0 +1,13 @@
+build/
+out/
+*.o
+*.a
+*.so
+*.dylib
+**/__pycache__/
+.DS_Store
+*.swp
+*~
+mayhem/build-fuzz/
+mayhem/build-standalone/
+mayhem/build-tests/
